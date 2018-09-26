@@ -1,34 +1,88 @@
-.menu {text-align: center;
-		font-size: 25px;
+.hamburger{
+  background:none;
+  position:absolute;
+  top:0;
+  left:50%;
+  margin-left:355px;
+  line-height:45px;
+  padding:5px 15px 0px 15px;
+  color:#002b80;
+  border:0;
+  font-size:1.4em;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:10000000000000;
 }
-
-
-.menu ul{
+.cross{
+  background:none;
+  position:fixed;
+  top:0px;
+  left:50%;
+  margin-left:355px;
+  padding:7px 15px 0px 15px;
+  color:#ff0000;
+  border:0;
+  font-size:3em;
+  line-height:65px;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:10000000000000;
+}
+.menu{
+	z-index:1000000;
+	font-weight:bold;
+	font-size:0.8em;
+	width:20%;
+	position:fixed;
+	left:50%;
+    margin-left:365px;
+	top:10px;
+	margin-top:40px;
+	background:#f1f1f1;
+	text-align:center;
+	font-size:12px;
+}
+.menu ul {
+	margin:0;
+	padding:0;
 	list-style-type: none;
-	margin: 0;
-	padding: 0;
-
+	list-style-image: none;
 }
-
-
 .menu li{
-	display: inline-block;
-	border: 2px solid;
-	background-color: hsl(180, 81%, 67%);
+	display: block;
+	background:#f1f1f1;
+	padding:0;
 }
-
-
+.menu li:hover{
+	background:#ffffff;
+}
 .menu a{
 	display: block;
-	color: white;
-	padding: 30px, 40px;
-
+	padding:15px 0 15px 0;
+	border-bottom:#dddddd 1px solid;
+	text-decoration:none;
+	color:#555;}
+/* code for hamburger menu taken (and improved upon) from http://codepen.io/g13nn/pen/eHGEF */
+li.is-current{
+	display: block;
+	padding:15px 0 15px 0;
+	border-bottom:#dddddd 1px solid;
+	color:#999;
 }
 
-.menu a:hover {
-	background-color: hsl(132, 81%, 67%);
+a.is-current{
+	display: block;
+	padding:15px 0 15px 0;
+	border-bottom:#dddddd 1px solid;
+	color:#999;
 }
 
-.is-current {
-	background-color: hsl(0, 81%, 67%);
+li:hover.is-current{
+	background:#f1f1f1;
+}
+
+a:hover.is-current{
+	background:#f1f1f1;
 }
