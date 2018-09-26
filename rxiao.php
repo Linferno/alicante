@@ -10,7 +10,7 @@
 
 		<figure>
 			<img src="images/jerry.png" alt="jerry photo">
-			<figcaption>A photo of Renjie</figcaption>
+			<figcaption>Photo of Renjie</figcaption>
 		</figure>
 
 		<p>
