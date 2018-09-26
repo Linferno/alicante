@@ -1,4 +1,3 @@
-
 <?php include "inc/html-top.inc"; ?>
 <body>
 
@@ -32,17 +31,17 @@
 	<h2>Jobs:</h2>
 
 		<p>
-			For the summer of my sophomore year, I applied for an internship at an asset management company in Shanghai. As I started as an equity research intern in this company, I learned multiple ways to analysis a company and its stock price to see if they are worthy to invest. On the other hand, I have gained interest on business analyst from many internal meetings, that is to use big data and programming to predict future movement of stocks. After I did more research on business analyst, and taking some classes in it, I decided to switch my major into business analyst. 
+			For the summer of my sophomore year, he applied for an internship at an asset management company in Shanghai. As he started as an equity research intern in this company, he learned multiple ways to analysis a company and its stock price to see if they are worthy to invest. On the other hand, he has gained interest on business analyst from many internal meetings, that is to use big data and programming to predict future movement of stocks. After he did more research on business analyst, and taking some classes in it, he decided to switch my major into business analyst. 
 		</p>
 
 	<h2>Academics:</h2>
 
 		<p>
-			In 2015, I came to Rochester to pursue my bachelor’s degree. Started off with talking econ108 with Pr. Rizzo, I soon gain great interest in the field of economics because he made the class interesting and easy to understand. After taking more courses with him, I declared my major as Financial Economics at the end of the sophomore year. At that time, I think economics will be my greatest passion in the future. 
+			In 2015, he came to Rochester to pursue my bachelor’s degree. Started off with talking ECO 108 with Pr. Rizzo, he soon gain great interest in the field of economics because he made the class interesting and easy to understand. After taking more courses with him, he declared my major as Financial Economics at the end of the sophomore year. At that time, he thought economics will be his greatest passion in the future. 
 		</p>
 
 		<p>
-			Besides the normal programming classes, I have also found interest in website design after taking CSC170, which is an awesome course to introduce the world of web design.  During this class, I have learned so much about CSS,HTML and JS. I have also learned how to put these components together and make them a workable website. After that, I decided to add computer science as my minor and continue to build up more knowledge about web design by taking more advanced classes like csc174. 
+			Besides the normal programming classes, he has also found interest in website design after taking CSC170, which is an awesome course to introduce the world of web design.  During this class, he has learned so much about HTML, CSS and JS. He has also learned how to put these components together and make them a workable website. After that, he decided to add computer science as my minor and continue to build up more knowledge about web design by taking more advanced classes like csc174. 
 		</p>
 
 	</article>
