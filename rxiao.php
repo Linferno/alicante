@@ -1,7 +1,8 @@
 <?php include "inc/html-top.inc"; ?>
 <body>
-
-<h1>Renjie Xiao</h1>
+	<header>
+		<h1>Renjie Xiao</h1>
+	</header>
 
 
 <?php include "inc/nav.inc";?>
@@ -10,10 +11,9 @@
 
 		<figure>
 			<img src="images/jerry.png" alt="jerry photo">
-			<figcaption>Photo of Renjie</figcaption>
 		</figure>
 
-		<p>
+		<p class="pr">
 			Renjie is an international student currently major in Business Analytics and minor in Computer Science at the University of Rochester. Before that he completed my high school at Walsingham Academy in a little town named Williamsburg. He has lived and studied in Shanghai, China for 16 years. 
 		</p>
 
@@ -45,7 +45,7 @@
 		</p>
 
 	</article>
-<a href="urcsc174.org/assignment01/rxiao2/index.php">Original Website</a>
+<a href="urcsc174.org/assignment01/rxiao/index.php">Original Website</a>
 <?php include "inc/scripts.inc"; ?>
 
 </body>

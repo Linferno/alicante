@@ -28,7 +28,7 @@ article{
 
 img{
   vertical-align:top;
-  padding:20px 20px 60px 40px;
+  padding:20px 20px 60px 0px;
   float:left;
 }
 
@@ -58,4 +58,13 @@ a{
 
 a:hover {
   color: #437A16;
+}
+
+.wrap{
+  vertical-align:top; 
+  padding-top:20px;
+}
+
+.pr{
+  padding-right:30px;
 }
