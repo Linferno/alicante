@@ -1,18 +1,17 @@
 <?php include "inc/html-top.inc"; ?>
 <body>
 	
-	
+<header>
 	<h1>Jonathan Roman</h1>
-
+</header>
 
 <?php include "inc/nav.inc"; ?> 
-
+<article>
 	<figure>
 		<img src="images/jroman.jpg" alt="JRomanPic" class="Picture">
-		<figcaption>Photo of Jonathan</figcaption>
 	</figure>
 
-	<p>
+	<p class="pr">
 		Jonathan is from Tenafly, NJ and was born September 6th, 1997. He currently attends to the University of Rochester with a major in Computer Science. His hobbies include playing video games and basketball, both of which he participates in groups around campus for.
 	</p>
 
@@ -38,10 +37,8 @@
 		<p>
 			He has also worked as a warehouse employee for his dad, he would often be moving and packaging boxes and/or searching for items that needed to be shipped in the warehouse in order to package. Although it was not the most entertaining job in the world, he learned a lot about his dad's company and would be able to spend a lot of time working with his siblings along with my dad.
 		</p>
-
-
-
-	<a href="urcsc174.org/assignment01/jroman8/index.html">Original Website</a>
+</article>
+	<a href="urcsc174.org/assignment01/jroman/index.html">Original Website</a>
 <?php include "inc/scripts.inc"; ?>
 </body>
 </html>

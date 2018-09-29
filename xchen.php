@@ -17,8 +17,13 @@
 				<img src="images/tianjin.png" alt="tianjin">
 			</figure>
 
+<<<<<<< HEAD
 			<p>
 				Xinyi is a digital media study undergraduate student of University of Rochester. She is also trying to major or minor in Spanish. She is a person who is not really specialized or skilled in any specific field but always willing to try something new. Xinyi is not sure if it is a good idea exploring around different possibilities and not commit herself in one particular subject, but she understands this is what college is for. Her computer science skill includes basic HTML, CSS, python. Her hobbies include cooking weird food, drawing grotesque, speaking a little chin-span-glish, and chin-span-urk.
+=======
+			<p class="pr">
+				Xinyi is a digital media study undergraduate student of University of Rochester. She is also trying to major or minor in Spanish. She is that kind of person who is not really specialized or skilled in any specific field but always willing to try something new. She is not sure if it is a good thing or a bad thing to be exploring around different possibilities and not commit myself in one particular, but that is what she is right now, at least in this stage of her life. Her computer science skill includes basic HTML, CSS, python. Her other skills include cooking weird food, drawing grotesque, speaking a little chin-span-glish, and chin-span-urk.
+>>>>>>> 1e54daeb2215886d5a5c3832225a0538236ddfc3
 			</p>
 
 
