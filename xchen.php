@@ -32,7 +32,7 @@
             <h2>Jobs:</h2>
 
 				<p>
-					Here in University of Rochester, there is not as many things to do as compared to Beijing. Rochester is a peaceful, nice small town for Xinyi, even though her former roommate from upstate New York told her it is actually a “city”. She did manage to some jobs to do by fortune. Currently, Xinyi is working as a teaching assistant in CSC170, and a note-taker in AME294 this semester. She never had a job here before in the U.S. In Beijing, she used to teach and took care kids from high school and primary school. She never had a job which is not related to education, though she really wants to become a coffee shop owner deeply inside her heart. She believes every job merits equally, regardless how many people you serve, what you do, how many dollars float. Because what really matters is that she gains a sense of achievement and respect herself.
+					Rochester is a peaceful, nice small town for Xinyi, even though her former roommate from upstate New York told her it is actually a “city”. She did manage to some jobs to do by fortune. Currently, Xinyi is working as a teaching assistant in CSC170, and a note-taker in AME294 this semester. She never had a job here before in the U.S. In Beijing, she used to teach and took care kids from high school and primary school. She never had a job which is not related to education, though she really wants to become a coffee shop owner deeply inside her heart. She believes every job merits equally, regardless how many people you serve, what you do, how many dollars float. Because what really matters is that she gains a sense of achievement and respect herself.
 
 				</p>
 			
