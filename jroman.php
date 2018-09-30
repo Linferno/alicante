@@ -26,6 +26,7 @@
 <h2>Jobs:</h2>
 
 		<p>
+			Throughout high school he would work as a part-time tennis coach, though mostly had very light hours (about 4-5 hours a week). The hours were fairly flexible and he could pick up lessons whenever his local tennis club was teaching them, allowing him to change my schedule regularly as needed. At the time he was on the varsity tennis team so the only prerequisite he needed was to be able to play and have the patience to deal with children aged anywhere from 6-14. This was his first job he received on my own as well, which was different but educational for a 15-year-old Jonathan. Over the summer, he also taught at the summer camp which was a lot more demanding, as the hours would often be, besides for certain exceptions, 9am-4pm.
 		</p>
 
 		<p>
