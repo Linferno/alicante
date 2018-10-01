@@ -4,10 +4,10 @@
 		
 		<header>
 			<h1>Jonathan Roman</h1>
-		</header>
 
 		<?php include "inc/nav.inc"; ?> 
-
+		</header>
+	<article>
 		<figure>
 			<img src="images/jroman.jpg" alt="JRomanPic" class="Picture">
 		</figure>
@@ -40,7 +40,7 @@
 			<p>
 				As far as his academic career used to be, he was very into biology in high school. He would attend science competitions and fairs to present research he had begun through a special science research program in his school (which he credits his acceptance to the University of Rochester to). Since he was still a teenager, he had not really explored many fields up to this point and although the idea of biology excited him, he does not believe he was truly passionate about it. He had always been into video games and technology since he was old enough to operate a screen, so it seemed logical that he would like computer science, but his school did not offer anything in the field, so he entered the University of Rochester with a major in biology. Once he arrived at college, he continued with my track for a year or two before he began taking classes in computer science and instantly fell in love with it. He did not realize how much he would truly enjoy the field but he is extremely happy he ended up being able to complete his major within the 4 years even with some extra classes from other fields under his belt.
 			</p>
-
+</article>
 		<a href="http://urcsc174.org/assignment01/jroman8/index.html">Original Website</a>
 		<?php include "inc/scripts.inc"; ?>
 

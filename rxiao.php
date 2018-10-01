@@ -1,9 +1,9 @@
 <?php include "inc/html-top.inc"; ?>
 
 	<body>
-
-	<h1>Renjie Xiao</h1>
-
+	<header>
+		<h1>Renjie Xiao</h1>
+	</header>
 	<?php include "inc/nav.inc";?>
 
 	<article>

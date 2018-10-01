@@ -6,8 +6,6 @@
 		<header>
 			<h1>Welcome to Office Alicante!</h1>
 		</header>
-
-
 		<?php include "inc/nav.inc"; ?> 
 				
 		<article>

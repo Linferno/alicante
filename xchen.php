@@ -1,11 +1,11 @@
 <?php include "inc/html-top.inc"; ?>
 
 	<body>
-
-		<h1>Xinyi Chen</h1>
-
+		<header>
+			<h1>Xinyi Chen</h1>
+		</header>
 		<?php include "inc/nav.inc"; ?> 
-			
+
 		<article>
 		
 			<h2>Story of Xinyi</h2>
