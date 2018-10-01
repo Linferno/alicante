@@ -15,7 +15,7 @@ Navigation tags that will bring you to the each student's website.
 Our website is presented in the following categories, "Personal", "Jobs" and "Academics".
 Three students will have the categories in the same order.
 
-Personal: Stories about themselves before entering University of Rochester, where the students are from and fun facts about themselves. 
+Personal: Stories about themselves before entering University of Rochester, where the students are from and fun facts about themselves such as their hobbies, favorite sports etc. 
 
 Jobs: Previous jobs that they have worked or experienced - what they have learned from their jobs and explain the description of their jobs. 
 
@@ -37,4 +37,6 @@ This website is organized alphebetically by student's first names.
 The reason why the topics ("Personal" "Jobs" "Academics") are not in alphabetical order is because the order goes in historical order. 
 
 All of the students talk about their past life before Rochester in personal tag, and I thought it makes sense to put "Personal" category behind "Jobs" and "Academics". 
+
+
 
