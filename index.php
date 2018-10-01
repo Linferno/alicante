@@ -19,7 +19,7 @@
             </figure>
 
 		    <p>
-		        Jonathan is from Tenafly, NJ and was born September 6th, 1997. He currently attends the University of Rochester with a major in Computer Science. His hobbies include playing video games and basketball, both of which he participates in groups around campus for.
+		        Jonathan is from Tenafly, NJ and was born September 6th, 1997. He currently attends the University of Rochester with a major in Computer Science. His hobbies include playing video games and basketball, both of which he participates in groups around campus.
 	    	</p>
 
 	    	<a href="jroman8.php">Click here to get to know more about Jonathan...</a>
