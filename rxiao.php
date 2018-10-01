@@ -46,7 +46,7 @@
 		</p>
 
 	</article>
-<a href="urcsc174.org/assignment01/rxiao2/index.php">Original Website</a>
+<a href="http://urcsc174.org/assignment01/rxiao2/index.php">Original Website</a>
 <?php include "inc/scripts.inc"; ?>
 
 </body>
