@@ -1,8 +1,8 @@
 <?php include "inc/html-top.inc"; ?>
-<body>
 
-<h1>Renjie Xiao</h1>
+	<body>
 
+	<h1>Renjie Xiao</h1>
 
 	<?php include "inc/nav.inc";?>
 
@@ -47,6 +47,7 @@
 
 	</article>
 	<a href="http://urcsc174.org/assignment01/rxiao2/index.php">Original Website</a>
+
 	<?php include "inc/scripts.inc"; ?>
 
 </body>

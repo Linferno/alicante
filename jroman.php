@@ -1,8 +1,10 @@
 <?php include "inc/html-top.inc"; ?>
+
 	<body>	
 		
-		<h1>Jonathan Roman</h1>
-
+		<header>
+			<h1>Jonathan Roman</h1>
+		</header>
 
 		<?php include "inc/nav.inc"; ?> 
 
@@ -41,5 +43,5 @@
 
 		<a href="http://urcsc174.org/assignment01/jroman8/index.html">Original Website</a>
 		<?php include "inc/scripts.inc"; ?>
+
 	</body>
-</html>
