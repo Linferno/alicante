@@ -4,7 +4,7 @@
 <h1>Renjie Xiao</h1>
 
 
-<?php include "inc/nav.inc";?>
+	<?php include "inc/nav.inc";?>
 
 	<article>
 
@@ -46,7 +46,7 @@
 		</p>
 
 	</article>
-<a href="http://urcsc174.org/assignment01/rxiao2/index.php">Original Website</a>
-<?php include "inc/scripts.inc"; ?>
+	<a href="http://urcsc174.org/assignment01/rxiao2/index.php">Original Website</a>
+	<?php include "inc/scripts.inc"; ?>
 
 </body>

@@ -7,7 +7,7 @@
 		</header>
 
 
-<?php include "inc/nav.inc"; ?> 
+		<?php include "inc/nav.inc"; ?> 
 			
 		<article>
 		
@@ -47,5 +47,5 @@
 
 
 	<a href="http://urcsc174.org/assignment01/xchen/index.php">Original Website</a>
-<?php include "inc/scripts.inc"; ?>
+	<?php include "inc/scripts.inc"; ?>
 </body>
