@@ -1,11 +1,12 @@
 <?php include "inc/html-top.inc"; ?>
 
 	<body>
-		<header>
-			<h1>Xinyi Chen</h1>
-		</header>
-		<?php include "inc/nav.inc"; ?> 
 
+			<h1>Xinyi Chen</h1>
+
+
+<?php include "inc/nav.inc"; ?> 
+			
 		<article>
 		
 			<h2>Story of Xinyi</h2>
@@ -44,7 +45,5 @@
 
 
 	<a href="http://urcsc174.org/assignment01/xchen/index.php">Original Website</a>
-
-	<?php include "inc/scripts.inc"; ?>
-
-	</body>
+<?php include "inc/scripts.inc"; ?>
+</body>

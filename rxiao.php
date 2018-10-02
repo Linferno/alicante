@@ -1,10 +1,10 @@
 <?php include "inc/html-top.inc"; ?>
+<body>
 
-	<body>
-	<header>
-		<h1>Renjie Xiao</h1>
-	</header>
-	<?php include "inc/nav.inc";?>
+
+	<h1>Renjie Xiao</h1>
+
+<?php include "inc/nav.inc";?>
 
 	<article>
 
@@ -46,8 +46,7 @@
 		</p>
 
 	</article>
-	<a href="http://urcsc174.org/assignment01/rxiao2/index.php">Original Website</a>
+<a href="http://urcsc174.org/assignment01/rxiao2/index.php">Original Website</a>
+<?php include "inc/scripts.inc"; ?>
 
-	<?php include "inc/scripts.inc"; ?>
-
-	</body>
+</body>
